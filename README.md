@@ -18,4 +18,4 @@ CreativeCodingExamples-SmadyMair.docx - Samples of different codes/references
 
 Supplemental Materials for Concepts
 
-CreativeCodingFactSheet-SmadyMair - Copy.docx - Start of a document showing facts for project
+CreativeCodingFactSheet-SmadyMair.docx - Start of a document showing facts for project
